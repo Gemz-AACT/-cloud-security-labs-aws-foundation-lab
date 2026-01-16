@@ -9,7 +9,7 @@ variable "aws_az" {
 }
 
 variable "my_ip" {
-  default = "173.35.134.193/32" 
+  default = "0.0.0.0/0" # OVERRIDE THIS WITH YOUR IP 
 }
 
 variable "key_name" {
@@ -30,3 +30,4 @@ variable "unique_suffix" {
   default     = "student-lab-774411" 
 
 }
+
