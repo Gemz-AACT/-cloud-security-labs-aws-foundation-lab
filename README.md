@@ -12,7 +12,6 @@ This project demonstrates a secure AWS environment built using **Terraform (Infr
 
 ## Architecture
 
-*(Insert your architecture-diagram.png here!)*
 
 ## Security Decisions
 * **Private Isolation:** The EC2 instance has no Public IP, making it invisible to the internet.
