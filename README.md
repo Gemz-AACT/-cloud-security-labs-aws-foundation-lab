@@ -11,7 +11,7 @@ This project demonstrates a secure AWS environment built using **Terraform (Infr
 * **IAM:** Custom IAM Role using the "Least Privilege" principle, granting the EC2 instance access only to its specific bucket.
 
 ## Architecture
-
+![AWS Architecture Diagram](architecture-diagram.png)
 
 ## Security Decisions
 * **Private Isolation:** The EC2 instance has no Public IP, making it invisible to the internet.
