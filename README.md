@@ -13,7 +13,7 @@ This project demonstrates a secure AWS environment following best practices:
 - Security groups with minimal inbound rules
 
 ## Architecture
-(Insert architecture-diagram.png)
+**Need to upload Gemz!! ->  (Insert architecture-diagram.png) DONT FORGET
 
 ## Security Decisions
 - Private subnet for EC2 prevents public exposure
