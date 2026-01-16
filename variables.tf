@@ -1,3 +1,5 @@
+#The settings
+
 variable "aws_region" {
   default = "ca-central-1"
 }
@@ -25,5 +27,6 @@ variable "ami_id" {
 variable "unique_suffix" {
   description = "A unique name for the S3 bucket"
   type        = string
-  default     = "student-lab-774411" # Change these numbers to any random 6 digits
+  default     = "student-lab-774411" 
+
 }
